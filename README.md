@@ -1,6 +1,6 @@
 # Hi, I’m Lesley Colon 👋
 
-AI Automation Specialist and TripleTen AI Automation graduate focused on building practical, reliable workflows that reduce manual work and turn operational data into useful decisions.
+AI Automation Engineer and TripleTen AI Automation graduate focused on building practical, reliable workflows that reduce manual work and turn operational data into useful decisions.
 
 I bring 15+ years of client-facing experience across healthcare, insurance, and SaaS account management, combined with hands-on training in AI automation, RPA, API integrations, and low-code workflow design.
 
@@ -18,6 +18,10 @@ I bring 15+ years of client-facing experience across healthcare, insurance, and 
 `UiPath` · `Zapier` · `Make` · `Gemini AI` · `OpenWeather API` · `Google Sheets` · `Google Drive` · `Gmail` · `Webhooks` · `APIs` · `JSON` · `Jira Automation` · `Miro`
 
 ## Featured Projects
+
+### [Intelligent Construction Invoice Automation](https://github.com/lesleycolon-ai/intelligent-construction-invoice-automation)
+
+Designed an AI-assisted invoice pre-screening workflow for a fictional construction company. The portfolio case study uses document extraction, AI analysis, and business rules to classify invoices as **Clean** or **Needs Review**, with flagged issues routed to the accounts-payable team for human review. Payment approval remains with people.
 
 ### [Invoice Reporting Automation with UiPath](https://github.com/lesleycolon-ai/invoice-reporting-automation-uipath)
 
